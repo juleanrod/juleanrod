@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello there, I'mJulian</h1>
+<h1 align="center">👋 Hello there, I'm Julian</h1>
 Welcome to my Github profile! Here you can find all sorts of side projects I have built.
 <hr>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=juleanrod&show_icons=true&locale=en&layout=compact&theme=gotham&card_width=300" alt="" /></p>
